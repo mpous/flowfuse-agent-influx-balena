@@ -1,6 +1,6 @@
-# Deploy Flowfuse Device Agent with Balena
+# Deploy FlowFuse Device Agent with InfluxDB on balena
 
-[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/flowfuse/balena-device-agent)
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/mpous/flowfuse-agent-influx-balena)
 
 The documentation for the FlowFuse Device Agent can be found [here](https://flowfuse.com/docs/device-agent/introduction/)
 
